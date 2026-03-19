@@ -2,4 +2,4 @@
 
 Razvitiya o'quv markazida yaratgan saytimiz.
 
-Linki: https://shoxruhpro.github.io/
+Linki: https://shoxruhpro.github.io/kino-sayti
